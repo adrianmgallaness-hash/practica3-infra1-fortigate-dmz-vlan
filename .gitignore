@@ -1,0 +1,13 @@
+# Secretos y respaldos privados
+.env
+.env.*
+!.env.example
+*.key
+*.p12
+*.pfx
+privado/
+backups-privados/
+# Archivos temporales
+*.tmp
+Thumbs.db
+.DS_Store
