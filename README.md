@@ -1,5 +1,7 @@
 ## Video demostrativo
-**Pendiente de grabación.** Colocar aquí el enlace de YouTube o OneDrive institucional. Duración máxima: 10 minutos; mostrar fecha y hora, rostro y voz.
+[▶ Ver video demostrativo en YouTube](https://youtu.be/D0aCyLObEng)
+
+[![Video demostrativo · Infraestructura 1](https://img.youtube.com/vi/D0aCyLObEng/hqdefault.jpg)](https://youtu.be/D0aCyLObEng)
 
 # Práctica 3 · Infraestructura 1
 ## Seguridad de redes con FortiGate, DMZ y VLAN
